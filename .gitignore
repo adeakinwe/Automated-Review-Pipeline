@@ -3,3 +3,5 @@ reviews.csv
 __pycache__/
 *.pyc
 .DS_Store
+solution.py
+results.json
