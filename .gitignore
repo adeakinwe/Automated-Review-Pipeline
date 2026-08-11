@@ -5,3 +5,4 @@ __pycache__/
 .DS_Store
 solution.py
 results.json
+.virtual_documents/
